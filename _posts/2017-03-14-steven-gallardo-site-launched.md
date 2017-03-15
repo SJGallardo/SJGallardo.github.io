@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Steven Gallardo, Launches Site"
 date: 2017-03-14
 ---
 
